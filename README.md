@@ -14,6 +14,10 @@ This repository contains a Java-based Maze Solver application developed using Ja
 
 - **Customizable:** You can modify the maze by changing the values in the 2D array to create different maze configurations.
 
+### Screenshots
+[https://drive.google.com/uc?export=view&id=1xe2VrxYDoA6I-9rzpYq_PWQGXnTxkoFM](https://drive.google.com/file/d/1nMNFMwyzb_7UgWwn_LoAsfifJY6YIwHh/view?usp=sharing)
+
+
 ### How to Use:
 
 1. Clone or download the repository.
